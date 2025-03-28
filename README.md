@@ -1,2 +1,3 @@
 # TRABALHO-FACULDADE
 TRABALHO FACULDADE CIÊNCIA DA COMPUTAÇÃO - COMPARAÇÃO DE CARTAS HARD-CODE
+Esse foi um trabalho da faculdade com o objetivo de fazer comparação de cartas em C no modelo Hardcode, um trabalho simples porém com muitas aprendizagens, onde o principal conhecimento adquirido foi os atributos comparativos, já parou para pensar onde não temos que usar um sistema de comparações para acessarmos algum sistema? Desde talvez fazer um acesso a um sistema de login e senha até uma chave de acesso criptografada temos que usar um sistema de comparações podendo ser verdadeiro ou falso, ligado ou desligado, aberto ou fechado, etc. Usamos em várias situações um bom ponto de reflexão de sua real importancia e bem também interessante.
